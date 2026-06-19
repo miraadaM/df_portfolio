@@ -1,9 +1,9 @@
-# Mirada Makhmutova
+# Data Science Portfolio
 
-## Data Science Portfolio
+## Mirada Makhmutova
 
-Hi, I am Mirada Makhmutova. I am studying **Computer Science and Math** at
-**Simmons University**, where I currently have a **3.99 / 4.00 GPA**.
+Hi, I am Mirada Makhmutova. I am studying **Computer Science, Data Sceince and Math** at
+**Simmons University** in Boston, MA, where I currently have a **3.99 / 4.00 GPA**.
 
 I am interested in data science, statistical modeling, data visualization, and
 using R to turn messy data into clear, practical conclusions.
@@ -19,9 +19,9 @@ decision-making come together.
 
 | Project | Description | Report | Source |
 | --- | --- | --- | --- |
-| **Predicting Pit Stops: A Data-Driven Look at Formula 1 Strategy** | A classification project predicting whether a Formula 1 driver will pit on the next lap using tire life, race progress, degradation, lap-time changes, and position changes. | [View report](FinalProject-copy%20copy.html) | [R Markdown](R_scripts/FinalProject.Rmd) |
-| **Wrangling the 2026 Winter Olympics Data** | A data wrangling and visualization project using Olympic schedule data to compare sports, venues, and event duration. | [View report](Project3.html) | [R Markdown](R_scripts/Project3.Rmd) |
-| **Exploring Data Quality with visdat** | A visual data diagnostics project using the `visdat` package and `nycflights13` data to inspect structure, missingness, and data types. | [View report](Project1.html) | [R Markdown](R_scripts/Project1.Rmd) |
+| **Predicting Pit Stops: A Data-Driven Look at Formula 1 Strategy** | A classification project predicting whether a Formula 1 driver will pit on the next lap using tire life, race progress, degradation, lap-time changes, and position changes. | [View report](FinalProject-copy%20copy.html) | 
+| **Wrangling the 2026 Winter Olympics Data** | A data wrangling and visualization project using Olympic schedule data to compare sports, venues, and event duration. | [View report](Project3.html) | 
+| **Exploring Data Quality with visdat** | A visual data diagnostics project using the `visdat` package and `nycflights13` data to inspect structure, missingness, and data types. | [View report](Project1.html) | 
 
 ## Skills
 
@@ -44,4 +44,5 @@ GPA: **3.99 / 4.00**
 ## Contact
 
 - GitHub: [miraadaM](https://github.com/miraadaM)
-- Portfolio repository: [df_portfolio](https://github.com/miraadaM/df_portfolio)
+- LinkedIn: [link](linkedin.com/in/mirada-makhmutova-515071301
+)
